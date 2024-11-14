@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|c:\\_otus\\hw-11\\hw_react-asp-net\\reactapp\\reactapp.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|solutionrelative:reactapp.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|c:\\_otus\\hw-11\\hw_react-asp-net\\reactapp\\reactapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|solutionrelative:reactapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|c:\\_otus\\hw-11\\hw_react-asp-net\\reactapp\\reactapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|solutionrelative:reactapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|c:\\_otus\\hw-11\\hw_react-asp-net\\reactapp\\reactapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|solutionrelative:reactapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|c:\\_otus\\hw-11\\hw_react-asp-net\\reactapp\\reactapp.server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|solutionrelative:reactapp.server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|c:\\_otus\\hw-11\\hw_react-asp-net\\reactapp\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DCBE83-735C-43ED-B68B-948E8910A38B}|reactapp.client\\reactapp.client.esproj|c:\\_otus\\hw-11\\hw_react-asp-net\\reactapp\\reactapp.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{72DCBE83-735C-43ED-B68B-948E8910A38B}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DCBE83-735C-43ED-B68B-948E8910A38B}|reactapp.client\\reactapp.client.esproj|c:\\_otus\\hw-11\\hw_react-asp-net\\reactapp\\reactapp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{72DCBE83-735C-43ED-B68B-948E8910A38B}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|c:\\_otus\\hw-11\\hw_react-asp-net\\reactapp\\reactapp.server\\reactapp.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{763C90C7-966A-4083-9D7E-9831A2AEA94C}|ReactApp.Server\\ReactApp.Server.csproj|solutionrelative:reactapp.server\\reactapp.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +46,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 268,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ReactApp.Server\\appsettings.json",
+              "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\appsettings.json",
+              "RelativeToolTip": "ReactApp.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T13:27:35.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReactApp.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReactApp.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T13:27:49.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\reactapp.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "reactapp.client\\eslint.config.js",
+              "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\reactapp.client\\eslint.config.js",
+              "RelativeToolTip": "reactapp.client\\eslint.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-14T13:38:11.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\reactapp.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "reactapp.client\\vite.config.ts",
+              "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\reactapp.client\\vite.config.ts",
+              "RelativeToolTip": "reactapp.client\\vite.config.ts",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-14T13:38:22.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\Dockerfile",
+              "RelativeDocumentMoniker": "ReactApp.Server\\Dockerfile",
+              "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\Dockerfile",
+              "RelativeToolTip": "ReactApp.Server\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T13:53:09.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T13:53:41.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ReactApp.Server\\Program.cs",
+              "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\Program.cs",
+              "RelativeToolTip": "ReactApp.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:53:45.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ReactApp.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\appsettings.Development.json",
+              "RelativeToolTip": "ReactApp.Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T13:54:14.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReactApp.Server",
+              "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\ReactApp.Server.csproj",
+              "RelativeDocumentMoniker": "ReactApp.Server\\ReactApp.Server.csproj",
+              "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\ReactApp\\ReactApp.Server\\ReactApp.Server.csproj",
+              "RelativeToolTip": "ReactApp.Server\\ReactApp.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T13:35:33.431Z",
+              "EditorCaption": ""
             }
           ]
         }
