@@ -1,1 +1,0 @@
-C:\_Otus\hw-11\hw_react-asp-net\reactapp.client\obj\Debug\reactapp.client.esproj.CoreCompileInputs.cache
