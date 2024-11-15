@@ -1,24 +1,43 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useEffect, useState } from 'react';
 import './App.css';
 
+interface WeatherForecast {
+  date: string;
+  temperatureC: string;
+  summary: String;
+}
+
 function App() {
+  
+  const [weather, setWeather] = useState<WeatherForecast[]>([{date: "01.11.2021", temperatureC: "12", summary: "worm"}]);
+  
+  useEffect(() => {
+    fetch('https://localhost:7099/weatherforecast')
+      .then(response => response.json())
+      .then(data => {        
+        setWeather(data);
+      });
+  }, []);
+
+  
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>{"Погода"}</h1>
+      <div className='app-table'>
+        <table>
+        {
+          weather.map((item, i) => {
+            return <tr key={i}>
+              <td>{item.date}</td>
+              <td>{item.temperatureC}°C</td>
+              <td>{item.summary}</td>
+            </tr>
+          })
+        }
+        </table>
+      </div>
+      
     </div>
   );
 }

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\_Otus\\hw-11\\hw_react-asp-net\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{76449B47-31F5-4917-AF57-36C3F9A812CD}|Backend\\Backend.csproj|c:\\_otus\\hw-11\\hw_react-asp-net\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76449B47-31F5-4917-AF57-36C3F9A812CD}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76449B47-31F5-4917-AF57-36C3F9A812CD}|Backend\\Backend.csproj|c:\\_otus\\hw-11\\hw_react-asp-net\\backend\\backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76449B47-31F5-4917-AF57-36C3F9A812CD}|Backend\\Backend.csproj|solutionrelative:backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76449B47-31F5-4917-AF57-36C3F9A812CD}|Backend\\Backend.csproj|c:\\_otus\\hw-11\\hw_react-asp-net\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76449B47-31F5-4917-AF57-36C3F9A812CD}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 268,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\Backend\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Backend\\Program.cs",
               "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\Backend\\Backend\\Program.cs",
               "RelativeToolTip": "Backend\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T14:45:40.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\Backend\\Backend\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Backend\\WeatherForecast.cs",
+              "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\Backend\\Backend\\WeatherForecast.cs",
+              "RelativeToolTip": "Backend\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:44:33.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\_Otus\\hw-11\\hw_react-asp-net\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\_Otus\\hw-11\\hw_react-asp-net\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:46:49.631Z",
               "EditorCaption": ""
             }
           ]

@@ -14,6 +14,17 @@ namespace Backend
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            string Origin = "MyAllowOrigin";
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy(name: Origin,
+                    corsBuilder =>
+                    {
+                        corsBuilder.WithOrigins(["http://localhost:3000"])
+                        .WithMethods(["GET"]);
+                    });
+            });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -29,6 +40,7 @@ namespace Backend
 
 
             app.MapControllers();
+            app.UseCors(Origin);
 
             app.Run();
         }
